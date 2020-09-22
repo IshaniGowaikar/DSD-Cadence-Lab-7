@@ -1,4 +1,4 @@
-# DSD-Cadence-Lab-7
+# Sequential subway logic controller
 
 In this lab we extend the previously designed Subway logic controller to include provisions for Direction (D) control for a
 given configuration.
